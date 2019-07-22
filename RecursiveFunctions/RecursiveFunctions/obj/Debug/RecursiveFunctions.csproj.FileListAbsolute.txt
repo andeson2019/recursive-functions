@@ -1,0 +1,7 @@
+C:\Users\andes\source\repos\RecursiveFunctions\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.exe.config
+C:\Users\andes\source\repos\RecursiveFunctions\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.exe
+C:\Users\andes\source\repos\RecursiveFunctions\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.pdb
+C:\Users\andes\source\repos\RecursiveFunctions\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.csprojAssemblyReference.cache
+C:\Users\andes\source\repos\RecursiveFunctions\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.csproj.CoreCompileInputs.cache
+C:\Users\andes\source\repos\RecursiveFunctions\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.exe
+C:\Users\andes\source\repos\RecursiveFunctions\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.pdb
